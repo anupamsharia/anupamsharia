@@ -9,71 +9,85 @@
 
 ## 🚀 About Me
 
-- 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 📊 Strong in **Data Science & Predictive Modeling**
-- 🧠 Love solving real-world problems using data
-- 📈 Skilled in building ML models and analyzing datasets
-- 🌍 Based in India
+* 🤖 Focused on **Artificial Intelligence & Machine Learning**
+* 📊 Strong in **Data Science & Predictive Modeling**
+* 🧠 Passionate about solving **real-world problems using data**
+* 📈 Experienced in building **end-to-end ML solutions**
+* 🌍 Based in India
 
 ---
 
 ## 🧠 Skills (AI/ML & Data Science)
 
 ### 🧮 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 
 ### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
 
 ### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
 
-### 📉 Visualization
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge\&logo=scikit-learn)
+
+### 📉 Data Visualization
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge)
 
-### 🧠 Concepts
-- Machine Learning Algorithms  
-- Data Cleaning & Preprocessing  
-- Feature Engineering  
-- Model Evaluation  
-- Recommendation Systems  
-- NLP (Natural Language Processing)
+### 🧠 Core Concepts
+
+* Machine Learning Algorithms
+* Data Cleaning & Preprocessing
+* Feature Engineering
+* Model Evaluation
+* Recommendation Systems
+* Natural Language Processing (NLP)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🥇 FairRank AI – Intelligent Product Ranking System
+
+* AI-based ranking system for eCommerce platforms
+* Solves **new seller visibility problem** using fairness-aware algorithms
+* Combines **relevance + quality + fairness scoring**
+* Real-world industry use case (high impact project)
+
+---
+
 ### 🤖 AI Hiring Platform (Semantic Resume Analysis)
-- NLP-based resume screening system
-- Semantic matching using ML
-- Real-world hiring automation
+
+* NLP-based system for resume screening
+* Semantic matching between job descriptions and candidates
+* Automates hiring process using intelligent filtering
 
 ---
 
 ### 🎬 Movie Recommendation System
-- Content-based filtering model
-- Similarity algorithms for recommendations
-- Data preprocessing & model building
+
+* Content-based recommendation engine
+* Uses similarity algorithms for personalized suggestions
+* Implements data preprocessing and feature extraction
 
 ---
 
-### 📊 Data Science Project 1
-- Exploratory Data Analysis (EDA)
-- Feature engineering & insights extraction
+### 📊 Social Media Campaign Analysis
+
+* Data analysis of marketing campaigns
+* Extracts insights for performance optimization
+* Uses visualization for decision-making
 
 ---
 
-### 📊 Data Science Project 2
-- Machine learning model training
-- Predictive analytics
+### 📊 Student Feedback Analysis
 
----
-
-### 📊 Data Science Project 3
-- Data cleaning and visualization
-- Real-world dataset analysis
+* NLP-based sentiment analysis system
+* Analyzes feedback to improve decision-making
+* Real-world dataset handling
 
 ---
 
@@ -88,22 +102,22 @@
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamsharia&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupamsharia\&theme=tokyo-night)
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Built multiple AI/ML models
-- 📊 Strong foundation in Data Science
-- 🤖 Developed intelligent systems
-- 📈 Experience with real-world datasets
+* 🧠 Built multiple **AI/ML real-world projects**
+* 📊 Strong foundation in **Data Science & Analytics**
+* 🤖 Developed intelligent systems using **Machine Learning & NLP**
+* 🚀 Working on industry-level solutions (eCommerce AI)
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anupamsharia)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/anupamsharia)
 
 ---
 
