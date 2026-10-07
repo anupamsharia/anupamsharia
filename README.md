@@ -1,193 +1,223 @@
-<h1 align="center">Hi 👋, I'm Anupam Sharia</h1>
+# Hi 👋, I'm Anupam Sharia
 
-<h3 align="center">
-Data Science | AI/ML | Data Analytics
-</h3>
+### 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anupam%20Sharia&fontSize=40&fontColor=ffffff"/>
-</p>
+I am a **Data Analyst and Data Science enthusiast** passionate about transforming raw data into meaningful insights and business decisions.
+
+I work with **Python, SQL, PostgreSQL, Power BI, Excel, and data visualization tools** to clean, analyze, visualize, and understand data.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering student at **Mahatma Gandhi Institute of Technology (MGIT), Hyderabad**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning and Data Science**
-- 📊 Experienced in **Data Analysis, Data Cleaning, EDA and Business Intelligence**
-- 🐍 Working with **Python, SQL, Pandas and NumPy**
-- 📈 Building interactive **Power BI dashboards** for business insights
-- 🧠 Interested in **Entity Resolution, Fuzzy Matching, NLP and Machine Learning**
-- ☁️ Experience working with large datasets using **AWS EC2**
-- 🌍 Based in India
+- 📊 Aspiring **Data Analyst**
+- 🐍 Strong interest in **Python & Data Analysis**
+- 🗄️ Working with **SQL & PostgreSQL**
+- 📈 Building interactive dashboards using **Power BI**
+- 📗 Using **Excel** for analysis and reporting
+- 🧹 Interested in **Data Cleaning & Exploratory Data Analysis**
+- 📊 Interested in **Business Intelligence & Data Visualization**
+- 🤖 Exploring **Data Science & Machine Learning**
+- 💼 Building projects focused on real-world business problems
+- 🚀 Open to **Data Analyst / Data Science opportunities**
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming
+### 🐍 Languages & Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analysis
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🤖 AI / ML / NLP
+### 📊 Data Tools
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-- Entity Resolution
-- Record Linkage
-- Fuzzy Matching
-- Blocking & Candidate Generation
-- Similarity Scoring
-- Feature Engineering
-- Model Evaluation
-- Natural Language Processing
-
-### 📈 Data Visualization & BI
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🗄️ Databases
+### 🗄️ Database & Development Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools
-
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🥇 Business Entity Resolution & Record Matching
-**Amazon ML Challenge 2026**
+## 1️⃣ Customer Behavior Analysis
 
-- Built an **Entity Resolution pipeline for 12M+ business records**.
-- Addressed a potential **22T+ brute-force comparison problem** using blocking and candidate generation.
-- Applied **RapidFuzz WRatio** with name, address, token and country-based similarity.
-- Handled **typos, partial/reordered names, abbreviations, missing information and multilingual records**.
-- Implemented **chunk-based processing and dictionary indexing** for memory-efficient large-scale matching.
-- Supported **zero, single and multiple valid entity matches**.
-- Evaluated using **macro F0.5**, achieving a **0.8975 baseline score**.
+**Python | SQL | PostgreSQL | Power BI**
 
-**Tech:** Python · Pandas · RapidFuzz · AWS EC2
+An end-to-end customer analytics project focused on understanding customer purchasing behavior and generating actionable business insights.
 
----
+### 🔍 Key Areas
+- Customer segmentation
+- Revenue analysis
+- Purchase behavior
+- Subscription analysis
+- Product performance
+- Discount analysis
+- Age-group analysis
+- SQL business analysis
+- Power BI dashboard
 
-### 📊 Customer Shopping Behavior Analysis
-
-- Analyzed **3,900 customer transactions** to identify customer segments, revenue patterns and purchasing trends.
-- Performed **data cleaning, preprocessing and exploratory data analysis** using Python, Pandas and Excel.
-- Used **PostgreSQL and SQL queries** to extract and validate business insights.
-- Built an interactive **Power BI dashboard** for KPIs, customer behavior, revenue and product performance.
-- Generated recommendations for **customer retention, subscription growth, discount optimization and targeted marketing**.
-
-**Tech:** Python · SQL · PostgreSQL · Pandas · Power BI · Excel
+🔗 **[View Project →](https://github.com/anupamsharia/Customer-behavior-analysis)**
 
 ---
 
-### 📈 Sales Dashboard
+## 2️⃣ Sales Dashboard
 
-- Built an interactive **Power BI dashboard** to monitor sales performance, KPIs and business trends.
-- Performed **data cleaning and transformation** using Excel.
-- Applied data visualization practices to improve reporting and business decision-making.
+**Power BI | Power Query | DAX | Data Visualization**
 
-**Tech:** Power BI · Excel · Data Cleaning · Business Analysis
+An interactive Power BI dashboard designed to analyze sales performance and help understand business KPIs.
 
----
+### 📊 Key Areas
+- Sales performance
+- Revenue analysis
+- Profit analysis
+- Monthly trends
+- Product/category performance
+- KPI reporting
+- Interactive dashboard
+- Business insights
 
-## 💼 Experience
-
-### Data Visualisation Virtual Internship
-**TATA | Forage — Remote | Aug 2025**
-
-- Performed end-to-end **data collection, cleaning, validation and analysis**.
-- Identified trends, patterns and actionable insights from raw datasets.
-- Applied data preprocessing techniques to prepare analysis-ready datasets.
-- Designed interactive **Power BI dashboards** for business decision-making and KPI tracking.
-- Communicated analytical findings through visualizations and presentations.
+🔗 **[View Project →](https://github.com/anupamsharia/sales-dashboard-powerbi)**
 
 ---
 
-## 🎓 Education
+## 3️⃣ Student Feedback Analysis
 
-**Mahatma Gandhi Institute of Technology (MGIT), Hyderabad**
+**Python | Pandas | Matplotlib | Seaborn | NLP**
 
-Bachelor of Engineering in Computer Science  
-**2023–2027 | CGPA: 7.1/10**
+A Python-based analysis project focused on exploring student satisfaction survey data and analyzing survey question text using NLP techniques.
 
----
+### 🔍 Key Areas
+- Data cleaning
+- Exploratory Data Analysis
+- Student satisfaction analysis
+- Percentage/rating analysis
+- TextBlob sentiment analysis
+- VADER sentiment analysis
+- WordCloud visualization
+- Automated PDF reporting
 
-## 📜 Certifications
-
-- **Career Essentials in Data Analysis** — Microsoft & LinkedIn Learning
-- **TATA Data Visualisation Virtual Internship** — Forage
-
----
-
-## 🏆 Highlights
-
-- 🧠 Amazon ML Challenge 2026 — **Business Entity Resolution**
-- 📊 Experience with **Data Analysis & Business Intelligence**
-- 🤖 Hands-on experience in **AI/ML, Entity Resolution and Fuzzy Matching**
-- 📈 Built interactive **Power BI dashboards**
-- ☁️ Worked with large-scale datasets on **AWS EC2**
+🔗 **[View Project →](https://github.com/anupamsharia/student-feedback-analysis)**
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Other Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupamsharia&show_icons=true&theme=tokyonight"/>
-</p>
+### 🌾 Seasonal Agriculture Performance Analysis
+Analysis of agricultural performance and seasonal patterns using data analysis techniques.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamsharia&theme=tokyonight"/>
-</p>
+🔗 **[View Project →](https://github.com/anupamsharia/Seasonal-Agriculture-Performance-Analysis)**
 
----
+### 📱 IBM BOB Project
+A project developed as part of the IBM BOB initiative/challenge.
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupamsharia&theme=tokyo-night"/>
-</p>
+🔗 **[View Project →](https://github.com/anupamsharia/IBMBOB-Project)**
 
 ---
 
-## 📫 Connect With Me
+# 💼 What I Can Help With
 
-<p align="center">
+I can work on:
 
-<a href="https://github.com/anupamsharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/anupamsharia">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anupamsharia@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- 📊 Data Analysis
+- 🧹 Data Cleaning
+- 🔎 Exploratory Data Analysis
+- 🐍 Python/Pandas Analysis
+- 🗄️ SQL Queries
+- 🐘 PostgreSQL Analysis
+- 📈 Power BI Dashboards
+- 📗 Excel Analysis
+- 📊 Data Visualization
+- 📋 Business Reports
+- 💡 Business Insights
+- 📑 Automated Reporting
 
 ---
 
-<p align="center">
-  🚀 Turning Data into Intelligence
-</p>
+# 📈 My Data Analysis Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL / Python Analysis
+   ↓
+Visualization
+   ↓
+Business Insights
+   ↓
+Dashboard / Report
+```
+
+---
+
+# 🎯 Currently Learning
+
+- Advanced SQL
+- Advanced Power BI
+- DAX
+- Advanced Excel
+- Data Analytics
+- Statistics for Data Science
+- Machine Learning
+- Business Intelligence
+
+---
+
+# 📊 Areas of Interest
+
+- Customer Analytics
+- Sales Analytics
+- Marketing Analytics
+- Business Intelligence
+- Data Visualization
+- Product Analytics
+- Data Science
+- Machine Learning
+
+---
+
+# 🤝 Open to Opportunities
+
+I am interested in:
+
+- 💼 Data Analyst Internships
+- 💼 Data Analyst Roles
+- 📊 Business Intelligence Opportunities
+- 📈 Freelance Data Analysis Projects
+- 🤝 Collaboration on Data Projects
+
+If you have a dataset, dashboard requirement, or data analysis problem, feel free to connect with me.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [anupamsharia2004@gmail.com](mailto:anupamsharia2004@gmail.com)
+
+🐙 **GitHub:** [github.com/anupamsharia](https://github.com/anupamsharia)
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you find my projects useful, consider giving them a ⭐ on GitHub.
+
+**Let's turn data into insights. 📊🚀**
