@@ -210,7 +210,7 @@ If you have a dataset, dashboard requirement, or data analysis problem, feel fre
 
 # 📫 Connect With Me
 
-📧 **Email:** [anupamsharia2004@gmail.com](mailto:anupamsharia2004@gmail.com)
+📧 **Email:** [shariaanupam@gmail.com](mailto:shariaanupam@gmail.com)
 
 🐙 **GitHub:** [github.com/anupamsharia](https://github.com/anupamsharia)
 
